@@ -1,0 +1,16 @@
+E:\Programação\repositorios\Curso-CSharp_POO\First\First\obj\Debug\net5.0\First.csprojAssemblyReference.cache
+E:\Programação\repositorios\Curso-CSharp_POO\First\First\obj\Debug\net5.0\First.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação\repositorios\Curso-CSharp_POO\First\First\obj\Debug\net5.0\First.AssemblyInfoInputs.cache
+E:\Programação\repositorios\Curso-CSharp_POO\First\First\obj\Debug\net5.0\First.AssemblyInfo.cs
+E:\Programação\repositorios\Curso-CSharp_POO\First\First\obj\Debug\net5.0\First.csproj.CoreCompileInputs.cache
+E:\Programação\repositorios\Curso-CSharp_POO\First\First\bin\Debug\net5.0\First.exe
+E:\Programação\repositorios\Curso-CSharp_POO\First\First\bin\Debug\net5.0\First.deps.json
+E:\Programação\repositorios\Curso-CSharp_POO\First\First\bin\Debug\net5.0\First.runtimeconfig.json
+E:\Programação\repositorios\Curso-CSharp_POO\First\First\bin\Debug\net5.0\First.runtimeconfig.dev.json
+E:\Programação\repositorios\Curso-CSharp_POO\First\First\bin\Debug\net5.0\First.dll
+E:\Programação\repositorios\Curso-CSharp_POO\First\First\bin\Debug\net5.0\ref\First.dll
+E:\Programação\repositorios\Curso-CSharp_POO\First\First\bin\Debug\net5.0\First.pdb
+E:\Programação\repositorios\Curso-CSharp_POO\First\First\obj\Debug\net5.0\First.dll
+E:\Programação\repositorios\Curso-CSharp_POO\First\First\obj\Debug\net5.0\ref\First.dll
+E:\Programação\repositorios\Curso-CSharp_POO\First\First\obj\Debug\net5.0\First.pdb
+E:\Programação\repositorios\Curso-CSharp_POO\First\First\obj\Debug\net5.0\First.genruntimeconfig.cache

@@ -1,0 +1,7 @@
+E:\Programação\repositorios\Curso-CSharp_POO\Course\Course\obj\Debug\Course.csprojAssemblyReference.cache
+E:\Programação\repositorios\Curso-CSharp_POO\Course\Course\obj\Debug\Course.csproj.CoreCompileInputs.cache
+E:\Programação\repositorios\Curso-CSharp_POO\Course\Course\bin\Debug\Course.exe.config
+E:\Programação\repositorios\Curso-CSharp_POO\Course\Course\bin\Debug\Course.exe
+E:\Programação\repositorios\Curso-CSharp_POO\Course\Course\bin\Debug\Course.pdb
+E:\Programação\repositorios\Curso-CSharp_POO\Course\Course\obj\Debug\Course.exe
+E:\Programação\repositorios\Curso-CSharp_POO\Course\Course\obj\Debug\Course.pdb
