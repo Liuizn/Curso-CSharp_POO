@@ -1,0 +1,6 @@
+E:\Programação\repositorios\Curso-CSharp_POO\Exercicios-2\Atividade-6\Atividade-6\bin\Debug\Atividade-6.exe.config
+E:\Programação\repositorios\Curso-CSharp_POO\Exercicios-2\Atividade-6\Atividade-6\bin\Debug\Atividade-6.exe
+E:\Programação\repositorios\Curso-CSharp_POO\Exercicios-2\Atividade-6\Atividade-6\bin\Debug\Atividade-6.pdb
+E:\Programação\repositorios\Curso-CSharp_POO\Exercicios-2\Atividade-6\Atividade-6\obj\Debug\Atividade-6.csproj.CoreCompileInputs.cache
+E:\Programação\repositorios\Curso-CSharp_POO\Exercicios-2\Atividade-6\Atividade-6\obj\Debug\Atividade-6.exe
+E:\Programação\repositorios\Curso-CSharp_POO\Exercicios-2\Atividade-6\Atividade-6\obj\Debug\Atividade-6.pdb
