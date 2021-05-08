@@ -1,0 +1,7 @@
+C:\Users\luizg\source\repos\Atividade-8\Atividade-8\obj\Debug\Atividade-8.csprojAssemblyReference.cache
+C:\Users\luizg\source\repos\Atividade-8\Atividade-8\obj\Debug\Atividade-8.csproj.CoreCompileInputs.cache
+C:\Users\luizg\source\repos\Atividade-8\Atividade-8\bin\Debug\Atividade-8.exe.config
+C:\Users\luizg\source\repos\Atividade-8\Atividade-8\bin\Debug\Atividade-8.exe
+C:\Users\luizg\source\repos\Atividade-8\Atividade-8\bin\Debug\Atividade-8.pdb
+C:\Users\luizg\source\repos\Atividade-8\Atividade-8\obj\Debug\Atividade-8.exe
+C:\Users\luizg\source\repos\Atividade-8\Atividade-8\obj\Debug\Atividade-8.pdb
