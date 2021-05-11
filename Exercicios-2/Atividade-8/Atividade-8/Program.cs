@@ -23,7 +23,7 @@ namespace Atividade_8
             else if (salario >= 3000.01 && salario <= 4500.00)
             {
                 salario -= 3000;
-                salario *= 0.18;
+                salario *= 0.17;
                 salario += 80;
                 Console.WriteLine($"R$: {salario:F2}");
             }
