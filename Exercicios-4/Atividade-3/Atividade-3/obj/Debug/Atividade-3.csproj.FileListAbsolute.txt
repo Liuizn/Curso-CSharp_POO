@@ -1,0 +1,7 @@
+E:\Programação\repositorios\Curso-CSharp_POO\Exercicios-4\Atividade-3\Atividade-3\obj\Debug\Atividade-3.csprojAssemblyReference.cache
+E:\Programação\repositorios\Curso-CSharp_POO\Exercicios-4\Atividade-3\Atividade-3\obj\Debug\Atividade-3.csproj.CoreCompileInputs.cache
+E:\Programação\repositorios\Curso-CSharp_POO\Exercicios-4\Atividade-3\Atividade-3\bin\Debug\Atividade-3.exe.config
+E:\Programação\repositorios\Curso-CSharp_POO\Exercicios-4\Atividade-3\Atividade-3\bin\Debug\Atividade-3.exe
+E:\Programação\repositorios\Curso-CSharp_POO\Exercicios-4\Atividade-3\Atividade-3\bin\Debug\Atividade-3.pdb
+E:\Programação\repositorios\Curso-CSharp_POO\Exercicios-4\Atividade-3\Atividade-3\obj\Debug\Atividade-3.exe
+E:\Programação\repositorios\Curso-CSharp_POO\Exercicios-4\Atividade-3\Atividade-3\obj\Debug\Atividade-3.pdb
