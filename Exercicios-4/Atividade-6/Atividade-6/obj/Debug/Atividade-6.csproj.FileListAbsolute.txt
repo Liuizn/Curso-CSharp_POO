@@ -1,0 +1,6 @@
+C:\Users\luizg\source\repos\Atividade-6\Atividade-6\bin\Debug\Atividade-6.exe.config
+C:\Users\luizg\source\repos\Atividade-6\Atividade-6\bin\Debug\Atividade-6.exe
+C:\Users\luizg\source\repos\Atividade-6\Atividade-6\bin\Debug\Atividade-6.pdb
+C:\Users\luizg\source\repos\Atividade-6\Atividade-6\obj\Debug\Atividade-6.csproj.CoreCompileInputs.cache
+C:\Users\luizg\source\repos\Atividade-6\Atividade-6\obj\Debug\Atividade-6.exe
+C:\Users\luizg\source\repos\Atividade-6\Atividade-6\obj\Debug\Atividade-6.pdb

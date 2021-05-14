@@ -1,0 +1,7 @@
+C:\Users\luizg\source\repos\Atividade-4\Atividade-4\obj\Debug\Atividade-4.csprojAssemblyReference.cache
+C:\Users\luizg\source\repos\Atividade-4\Atividade-4\obj\Debug\Atividade-4.csproj.CoreCompileInputs.cache
+C:\Users\luizg\source\repos\Atividade-4\Atividade-4\bin\Debug\Atividade-4.exe.config
+C:\Users\luizg\source\repos\Atividade-4\Atividade-4\bin\Debug\Atividade-4.exe
+C:\Users\luizg\source\repos\Atividade-4\Atividade-4\bin\Debug\Atividade-4.pdb
+C:\Users\luizg\source\repos\Atividade-4\Atividade-4\obj\Debug\Atividade-4.exe
+C:\Users\luizg\source\repos\Atividade-4\Atividade-4\obj\Debug\Atividade-4.pdb
