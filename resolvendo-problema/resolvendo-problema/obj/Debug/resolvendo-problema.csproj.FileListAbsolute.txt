@@ -1,0 +1,7 @@
+E:\Programação\repositorios\Curso-CSharp_POO\resolvendo-problema\resolvendo-problema\bin\Debug\resolvendo-problema.exe.config
+E:\Programação\repositorios\Curso-CSharp_POO\resolvendo-problema\resolvendo-problema\bin\Debug\resolvendo-problema.exe
+E:\Programação\repositorios\Curso-CSharp_POO\resolvendo-problema\resolvendo-problema\bin\Debug\resolvendo-problema.pdb
+E:\Programação\repositorios\Curso-CSharp_POO\resolvendo-problema\resolvendo-problema\obj\Debug\resolvendo-problema.csprojAssemblyReference.cache
+E:\Programação\repositorios\Curso-CSharp_POO\resolvendo-problema\resolvendo-problema\obj\Debug\resolvendo-problema.csproj.CoreCompileInputs.cache
+E:\Programação\repositorios\Curso-CSharp_POO\resolvendo-problema\resolvendo-problema\obj\Debug\resolvendo-problema.exe
+E:\Programação\repositorios\Curso-CSharp_POO\resolvendo-problema\resolvendo-problema\obj\Debug\resolvendo-problema.pdb
