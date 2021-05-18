@@ -27,14 +27,12 @@ namespace resolvendo_problema
             y.B = double.Parse(Console.ReadLine());
             y.C = double.Parse(Console.ReadLine());
 
-            double p = (x.A + x.B + x.CC) / 2.0;
-            double areaX = Math.Sqrt(p * (p - x.A) * (p - xB) * (p - xC));
-
-             p = (yA + yB + yC) / 2.0;
-            double areaY = Math.Sqrt(p * (p - yA) * (p - yB) * (p - yC));
+            double areaX = x.Area();
+            double areaY = y.Area();
 
             Console.WriteLine($"A área de X é: {areaX.ToString("F4")}");
             Console.WriteLine($"A área de Y é: {areaY.ToString("F4")}");
+            Console.ReadLine();
 
         }
     }
