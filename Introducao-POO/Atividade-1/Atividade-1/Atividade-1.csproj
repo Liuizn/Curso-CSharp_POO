@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{757CA910-F829-4C15-98EB-3D9B945273E5}</ProjectGuid>
+    <ProjectGuid>{2D54166C-D316-4DB2-B79C-686494C6AE52}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>resolvendo_problema</RootNamespace>
-    <AssemblyName>resolvendo-problema</AssemblyName>
+    <RootNamespace>Atividade_1</RootNamespace>
+    <AssemblyName>Atividade-1</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,9 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Pessoa.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Triangulo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
