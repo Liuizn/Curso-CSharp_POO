@@ -1,0 +1,7 @@
+E:\Programação\repositorios\Curso-CSharp_POO\Atividade-membros_estáticos\Atividade-membros_estáticos\bin\Debug\Atividade-membros_estáticos.exe.config
+E:\Programação\repositorios\Curso-CSharp_POO\Atividade-membros_estáticos\Atividade-membros_estáticos\bin\Debug\Atividade-membros_estáticos.exe
+E:\Programação\repositorios\Curso-CSharp_POO\Atividade-membros_estáticos\Atividade-membros_estáticos\bin\Debug\Atividade-membros_estáticos.pdb
+E:\Programação\repositorios\Curso-CSharp_POO\Atividade-membros_estáticos\Atividade-membros_estáticos\obj\Debug\Atividade-membros_estáticos.csprojAssemblyReference.cache
+E:\Programação\repositorios\Curso-CSharp_POO\Atividade-membros_estáticos\Atividade-membros_estáticos\obj\Debug\Atividade-membros_estáticos.csproj.CoreCompileInputs.cache
+E:\Programação\repositorios\Curso-CSharp_POO\Atividade-membros_estáticos\Atividade-membros_estáticos\obj\Debug\Atividade-membros_estáticos.exe
+E:\Programação\repositorios\Curso-CSharp_POO\Atividade-membros_estáticos\Atividade-membros_estáticos\obj\Debug\Atividade-membros_estáticos.pdb
