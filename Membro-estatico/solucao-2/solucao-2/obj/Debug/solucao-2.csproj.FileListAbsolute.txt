@@ -1,0 +1,7 @@
+E:\Programação\repositorios\Curso-CSharp_POO\Membro-estatico\solucao-2\solucao-2\bin\Debug\solucao-2.exe.config
+E:\Programação\repositorios\Curso-CSharp_POO\Membro-estatico\solucao-2\solucao-2\bin\Debug\solucao-2.exe
+E:\Programação\repositorios\Curso-CSharp_POO\Membro-estatico\solucao-2\solucao-2\bin\Debug\solucao-2.pdb
+E:\Programação\repositorios\Curso-CSharp_POO\Membro-estatico\solucao-2\solucao-2\obj\Debug\solucao-2.csprojAssemblyReference.cache
+E:\Programação\repositorios\Curso-CSharp_POO\Membro-estatico\solucao-2\solucao-2\obj\Debug\solucao-2.csproj.CoreCompileInputs.cache
+E:\Programação\repositorios\Curso-CSharp_POO\Membro-estatico\solucao-2\solucao-2\obj\Debug\solucao-2.exe
+E:\Programação\repositorios\Curso-CSharp_POO\Membro-estatico\solucao-2\solucao-2\obj\Debug\solucao-2.pdb
