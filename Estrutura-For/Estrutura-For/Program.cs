@@ -17,6 +17,7 @@ namespace Estrutura_For
             {
                 Console.WriteLine("oi");
             }
+            Console.ReadLine();
         }
     }
 }
