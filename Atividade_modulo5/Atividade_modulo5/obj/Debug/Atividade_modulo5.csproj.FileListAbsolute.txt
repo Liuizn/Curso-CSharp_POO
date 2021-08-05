@@ -1,0 +1,7 @@
+E:\Programação\repositorios\Curso-CSharp_POO\Atividade_modulo5\Atividade_modulo5\bin\Debug\Atividade_modulo5.exe.config
+E:\Programação\repositorios\Curso-CSharp_POO\Atividade_modulo5\Atividade_modulo5\bin\Debug\Atividade_modulo5.exe
+E:\Programação\repositorios\Curso-CSharp_POO\Atividade_modulo5\Atividade_modulo5\bin\Debug\Atividade_modulo5.pdb
+E:\Programação\repositorios\Curso-CSharp_POO\Atividade_modulo5\Atividade_modulo5\obj\Debug\Atividade_modulo5.csproj.AssemblyReference.cache
+E:\Programação\repositorios\Curso-CSharp_POO\Atividade_modulo5\Atividade_modulo5\obj\Debug\Atividade_modulo5.csproj.CoreCompileInputs.cache
+E:\Programação\repositorios\Curso-CSharp_POO\Atividade_modulo5\Atividade_modulo5\obj\Debug\Atividade_modulo5.exe
+E:\Programação\repositorios\Curso-CSharp_POO\Atividade_modulo5\Atividade_modulo5\obj\Debug\Atividade_modulo5.pdb

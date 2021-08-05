@@ -1,0 +1,4 @@
+E:\Programação\repositorios\Curso-CSharp_POO\Propriedades\Propriedades\obj\Debug\Propriedades.csproj.AssemblyReference.cache
+E:\Programação\repositorios\Curso-CSharp_POO\Propriedades\Propriedades\obj\Debug\Propriedades.csproj.CoreCompileInputs.cache
+E:\Programação\repositorios\Curso-CSharp_POO\Propriedades\Propriedades\obj\Debug\Encapsulamento.exe
+E:\Programação\repositorios\Curso-CSharp_POO\Propriedades\Propriedades\obj\Debug\Encapsulamento.pdb
