@@ -1,0 +1,7 @@
+E:\Programação\repositorios\Curso-CSharp_POO\Structs\Structs\bin\Debug\Structs.exe.config
+E:\Programação\repositorios\Curso-CSharp_POO\Structs\Structs\bin\Debug\Structs.exe
+E:\Programação\repositorios\Curso-CSharp_POO\Structs\Structs\bin\Debug\Structs.pdb
+E:\Programação\repositorios\Curso-CSharp_POO\Structs\Structs\obj\Debug\Structs.csproj.AssemblyReference.cache
+E:\Programação\repositorios\Curso-CSharp_POO\Structs\Structs\obj\Debug\Structs.csproj.CoreCompileInputs.cache
+E:\Programação\repositorios\Curso-CSharp_POO\Structs\Structs\obj\Debug\Structs.exe
+E:\Programação\repositorios\Curso-CSharp_POO\Structs\Structs\obj\Debug\Structs.pdb
