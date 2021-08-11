@@ -1,0 +1,7 @@
+C:\Users\luizg\source\repos\Vetores\Vetores\bin\Debug\Vetores.exe.config
+C:\Users\luizg\source\repos\Vetores\Vetores\bin\Debug\Vetores.exe
+C:\Users\luizg\source\repos\Vetores\Vetores\bin\Debug\Vetores.pdb
+C:\Users\luizg\source\repos\Vetores\Vetores\obj\Debug\Vetores.csproj.AssemblyReference.cache
+C:\Users\luizg\source\repos\Vetores\Vetores\obj\Debug\Vetores.csproj.CoreCompileInputs.cache
+C:\Users\luizg\source\repos\Vetores\Vetores\obj\Debug\Vetores.exe
+C:\Users\luizg\source\repos\Vetores\Vetores\obj\Debug\Vetores.pdb
