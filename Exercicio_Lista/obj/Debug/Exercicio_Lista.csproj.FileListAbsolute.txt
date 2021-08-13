@@ -1,0 +1,7 @@
+E:\Programação\repositorios\Curso-CSharp_POO\Exercicio_Lista\bin\Debug\Exercicio_Lista.exe.config
+E:\Programação\repositorios\Curso-CSharp_POO\Exercicio_Lista\bin\Debug\Exercicio_Lista.exe
+E:\Programação\repositorios\Curso-CSharp_POO\Exercicio_Lista\bin\Debug\Exercicio_Lista.pdb
+E:\Programação\repositorios\Curso-CSharp_POO\Exercicio_Lista\obj\Debug\Exercicio_Lista.csproj.AssemblyReference.cache
+E:\Programação\repositorios\Curso-CSharp_POO\Exercicio_Lista\obj\Debug\Exercicio_Lista.csproj.CoreCompileInputs.cache
+E:\Programação\repositorios\Curso-CSharp_POO\Exercicio_Lista\obj\Debug\Exercicio_Lista.exe
+E:\Programação\repositorios\Curso-CSharp_POO\Exercicio_Lista\obj\Debug\Exercicio_Lista.pdb
